@@ -1,0 +1,13 @@
+
+
+.favorites {
+    padding-top: 90px;
+    align-items: center;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+

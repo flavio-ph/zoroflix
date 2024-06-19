@@ -1,0 +1,15 @@
+.search {
+    flex-direction: row;
+    width: 100%;
+    min-height: 630px;
+    flex-direction: row;
+    padding-top: 50px;
+}
+
+.search h2 {
+    padding-block: 1.5rem;
+}
+
+.search video {
+    display: flex;
+}
